@@ -118,6 +118,7 @@
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <connections>
                         <outlet property="answerLabel" destination="m8s-lC-0gz" id="rHi-i0-3Gp"/>
+                        <outlet property="nextButton" destination="c7a-KY-vaw" id="zgO-tZ-PJf"/>
                         <outlet property="questionLabel" destination="Q4g-3i-hyL" id="chL-R2-Kdn"/>
                         <segue destination="gwZ-fF-6u3" kind="modal" identifier="toFinishView" id="lSh-3c-o63"/>
                     </connections>

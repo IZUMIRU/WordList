@@ -31,6 +31,10 @@
                 <animations/>
             </tableViewCellContentView>
             <animations/>
+            <connections>
+                <outlet property="englishLabel" destination="svx-Kg-BOt" id="a6p-gy-FbZ"/>
+                <outlet property="japaneseLabel" destination="p19-ve-vls" id="1kH-MN-jyt"/>
+            </connections>
         </tableViewCell>
     </objects>
 </document>

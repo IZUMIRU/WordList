@@ -124,6 +124,7 @@
 				FD9E7A6B1C6C5DD900EF6AB6 /* WordList素材 */,
 				FD9E7A3D1C6C5D4300EF6AB6 /* AppDelegate.swift */,
 				FD9E7A411C6C5D4400EF6AB6 /* Main.storyboard */,
+				FDBF70111C6C8A5E00A5955F /* ListTableViewCell.xib */,
 				FD9E7A441C6C5D4400EF6AB6 /* Assets.xcassets */,
 				FD9E7A461C6C5D4400EF6AB6 /* LaunchScreen.storyboard */,
 				FD9E7A491C6C5D4400EF6AB6 /* Info.plist */,
@@ -133,7 +134,6 @@
 				FD9E7A7F1C6C67E000EF6AB6 /* AddViewController.swift */,
 				FD9E7A7D1C6C67B400EF6AB6 /* ListTableViewController.swift */,
 				FDBF70101C6C8A5E00A5955F /* ListTableViewCell.swift */,
-				FDBF70111C6C8A5E00A5955F /* ListTableViewCell.xib */,
 			);
 			path = WordList;
 			sourceTree = "<group>";
